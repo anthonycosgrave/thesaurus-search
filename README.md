@@ -57,6 +57,6 @@ Response format:
 
 ## Screen Reader Testing
 
-**OS**: Windows 10 Pro
-**Screen readers**: NVDA, Windows Narrator  
-**Browsers**: Firefox, Chrome and Edge  
+**OS**: Windows 10 Pro  
+**Screen readers**: NVDA 2026.1.1 (2026.1.1.55980), Windows Narrator   
+**Browsers**: Chrome Version 156.0.8078.48 (Official Build) (64-bit), Firefox 159.0 (64-bit) and Edge Version 156.0.4314.50 (Official build) (64-bit)   
